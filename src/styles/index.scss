@@ -1,6 +1,8 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-
+body {
+    background: rgb(207, 207, 223);
+}
 .container {
     width: 500px;
     border: 1px solid;
@@ -19,6 +21,6 @@
 }
 i {
     color: red;
-    
-    
+
+
 }
