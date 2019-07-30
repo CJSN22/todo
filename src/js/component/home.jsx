@@ -12,7 +12,8 @@ export class Home extends React.Component {
 			todos: [
 				{ title: "eat", id: Math.random() * 10, done: false },
 				{ title: "sleep", id: Math.random() * 10, done: false },
-				{ title: "eat more", id: Math.random() * 10, done: false }
+				{ title: "code", id: Math.random() * 10, done: false },
+				{ title: "code more", id: Math.random() * 10, done: false }
 			]
 		};
 	}
