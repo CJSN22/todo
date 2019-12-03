@@ -13,7 +13,7 @@ export class Home extends React.Component {
 				{ title: "eat", id: Math.random() * 10, done: false },
 				{ title: "sleep", id: Math.random() * 10, done: false },
 				{ title: "code", id: Math.random() * 10, done: false },
-				{ title: "code more", id: Math.random() * 10, done: false }
+				{ title: "code again", id: Math.random() * 10, done: false }
 			]
 		};
 	}
