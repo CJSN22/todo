@@ -40,7 +40,7 @@ export class Home extends React.Component {
 	render() {
 		return (
 			<div className="container">
-				<h1 className="header">ToDo List</h1>
+				<h1 className="header">To Do List</h1>
 				<div className="input-group mb-3">
 					<input
 						id="placeholder"
