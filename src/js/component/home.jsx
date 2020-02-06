@@ -13,7 +13,6 @@ export class Home extends React.Component {
 				{ title: "eat", id: Math.random() * 10, done: false },
 				{ title: "sleep", id: Math.random() * 10, done: false },
 				{ title: "code", id: Math.random() * 10, done: false },
-                { title: "code", id: Math.random() * 10, done: false },
                 { title: "code more", id: Math.random() * 10, done: false }
 			]
 		};
@@ -41,7 +40,7 @@ export class Home extends React.Component {
 	render() {
 		return (
 			<div className="container">
-				<h1 className="header">To Do List</h1>
+				<h1 className="header">My ToDo List</h1>
 				<div className="input-group mb-3">
 					<input
 						id="placeholder"
